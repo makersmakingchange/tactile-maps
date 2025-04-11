@@ -1,41 +1,19 @@
-<!--- 
-Open Source Assistive Technology: GitHub Readme Template
- --->
+<!--- Open Source Assistive Technology: GitHub Readme Template --->
+<!-- Template files available at https://github.com/makersmakingchange/OpenAT-Template -->
 
-<!---
-INSTRUCTIONS
-This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
-
- --->
- 
- <!--- 
-TITLE
-Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
- --->
+<!--- TITLE Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
  # Tactile Maps
 
-<!--- 
-SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
- --->
+<!--- SUMMARY A brief summary of the project. What it does, who it is for, how much it costs.  --->
 The Tactile Maps are designed to help users with visual impairments learn to navigate different types of intersections with various traffic signs and signals. Maps can be used separately as a learning tool for specific intersections and traffic signs and signals, or can be connected together to plan routes between locations.
 The legend includes Braille labels for the different representations of traffic signs and signals.
 
 
-<!--- 
-PHOTO
+<!--- PHOTO  --->
+<img src="Photos/mapWithHand.jpg" height="500" alt="A user running their hand across the bottom of a tactile map representing a roundabout. The map has been attached to a carpet using hook and loop tape.">
 
- --->
-![A user running their hand across the bottom of a tactile map representing a roundabout. The map has been attached to a carpet using hook and loop tape.](Photos/mapWithHand.jpg)
-
-<!--- 
-## More info at
- - [Makers Making Change Forum Thread](TBD) 
- - [Makers Making Change Project Page](https://makersmakingchange.com/project/tactile-maps/)
- --->
-
+## Makers Making Change Assistive Device Library
+ - https://www.makersmakingchange.com/s/product/tactile-maps/01tJR000000nEbJYAU
 
 ## Getting Started
 <!--- 
@@ -82,7 +60,6 @@ If possible, include a copy of original design files to facilitate easy editing 
 ### Build Files
 <!---
 BUILD FILES
-This section i
 --->
  - [3D Printing Files](/Build_Files/3D_Printing)
 
@@ -96,16 +73,13 @@ Everything needed or used to design, make, test, or prepare the Tactile Maps is 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Tactile Maps are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
 ## Attribution
-<!---
-ATTRIBUTION
-Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
---->
+<!-- ATTRIBUTION -->
 
 The documentation template was created by Makers Making Change and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
+----
 
-
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -121,3 +95,4 @@ We are committed to cultivating a network of volunteer makers who support people
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to visit [MMC Forum](https://forum.makersmakingchange.com) or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
